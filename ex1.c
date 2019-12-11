@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//tanizakiテストコメント
 int main()
 {
 	int a,b,ans;
