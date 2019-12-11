@@ -3,7 +3,7 @@
 int main()
 {
 	int a,b,ans;
-
+//こんにちは
 	printf("aを入力してください:");
     scanf("%d",&a);
     printf("bを入力してください:");
