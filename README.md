@@ -2,8 +2,6 @@
 
 # 自由に使ってください
 
-#
-
 ## Git Pull
 
 ## Git Push
