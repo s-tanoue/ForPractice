@@ -16,6 +16,8 @@
 
 ## Git stash
 
+## git push -f origin masterは危険
+
 ## VSCode で操作する Git の注意点
 
 動きが微妙に違う
