@@ -25,4 +25,3 @@
 
 terminal の OUTPUT で見ることが可能
 
-## 変更
