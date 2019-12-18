@@ -13,7 +13,7 @@
 たのうえ
 
 ## Git add （ステージングに上げる）　
-
+test update test
 ## Git stash
 
 ## git push -f origin masterは危険
