@@ -7,6 +7,9 @@
 ## Git Pull
 
 ## Git Push
+初めての修正
+初めての修正
+初めての修正
 
 ## Git Commit
 
