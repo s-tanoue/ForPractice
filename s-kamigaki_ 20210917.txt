@@ -1,4 +1,3 @@
 aaa
 bbb
 ccc
-# 演習で修正
