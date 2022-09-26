@@ -10,12 +10,10 @@ int main()
 	printf("bを入力してください:");
 	scanf("%d", &b);
 
-	if (a == 2)
-	{
+	if (a == 2){
 		ans = a * b;
 	}
-	else
-	{
+	else {
 		ans = a + b;
 		ans = ans * 10;
 	}
