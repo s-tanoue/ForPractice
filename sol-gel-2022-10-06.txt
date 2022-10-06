@@ -1,0 +1,3 @@
+This file is created by IKEYA Tomonori at Oct 6, 2022.
+Updated for branch "Koeda-chan".
+Test for direct commit w/o staging.
