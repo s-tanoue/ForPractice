@@ -1,8 +1,3 @@
 こんにちは
 今日はいい天気ですね。
-<<<<<<< HEAD
 Hello World!
-=======
-Hello World!
-
->>>>>>> 253409f1ea705971f6c327b3ff97dfa17874b92c
