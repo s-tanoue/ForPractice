@@ -1,4 +1,5 @@
 hogehoge
 hogehoge2
 
+//commitがわかりません
 //Addがわかりません
